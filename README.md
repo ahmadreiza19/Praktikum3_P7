@@ -12,6 +12,7 @@ Kelas   : T1.20.B.1<br>
 
 ![Latihan 1](pict/latihan1.PNG) 
 <br>
+
 * Saya membuat source code dari perintah diatas, seperti dibawah ini :<br>
 
 ```python
