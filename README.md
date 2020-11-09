@@ -51,6 +51,7 @@ for x in list(range(1, n+1, 1))
 >-step_size = Nilai kenaikan<br>
 
 * Function lit() fungsinya untuk membuat hasil berupa daftar baris.<br>
+
 * Random.uniform() fungsinya untuk menampilkan bilangan float random dengan batas awal bilangan, dan abatas akhir bilangan. <br>
 Pada fungsi ini penulisan syntax random.uniform() harus diisi dengan 2 nilai didalam tanda kurung, yaitu batas awal (nilai terendah).<br>
 
