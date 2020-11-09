@@ -26,7 +26,7 @@ for x in list(range(1, n+1,1)):
     print(f"data ke: {x} ->",random.uniform(0,05))
 ```
 
-Saya akan menjelaskan beberapa syntax diatas: <br>
+Saya akan menjelaskan beberapa syntax diatas : <br>
 * Pada source code pertama :<br>
 
 ```python
