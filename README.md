@@ -10,7 +10,7 @@ Kelas   : T1.20.B.1<br>
 
 ## Tugas Latihan 1
 
-* Tugas latihan1.py, lihatlah dibawah gambar ini:<br>
+* Tugas latihan 1, lihatlah dibawah gambar ini:<br>
 
 ![Latihan 1](pict/latihan1.PNG) 
 <br>
