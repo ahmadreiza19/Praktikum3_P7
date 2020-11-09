@@ -70,6 +70,7 @@ Hasil dari program tersebut :
 <br>
 
 ## Tugas Latihan 2
+
 * Tugas latihan 2, lihatlah dibawah ini:<br>
     ![Latihan 2](pict/latihan2.PNG)
  <br>
