@@ -1,4 +1,5 @@
 # Praktikum3_P7
+
 Dibuat untuk memenuhi tugas Bahasa Pemrograman
 <br>
 
@@ -6,6 +7,7 @@ Nama    : Ahmad Reiza <br>
 NIM     : 312010037<br>
 Kelas   : T1.20.B.1<br>
 <br>
+
 ## Tugas Latihan 1
 
 * Tugas latihan1.py, lihatlah dibawah gambar ini:<br>
