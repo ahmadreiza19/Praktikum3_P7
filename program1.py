@@ -1,7 +1,7 @@
 modal awal = 100000000
 
 for bulan in range(1, 9, 1):
-    #mentukan laba pada bulan ke 1 dan 2
+    # mentukan laba pada bulan ke 1 dan 2
     if (bulan >= 1) and (bulan <= 2):
         # laba bulan 1 dan 2 adalah 0%
         laba12 = modalawal * 0
