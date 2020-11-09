@@ -7,6 +7,7 @@ NIM     : 312010037<br>
 Kelas   : T1.20.B.1<br>
 <br>
 ## Tugas Latihan 1
+
 * Tugas latihan1.py, lihatlah dibawah gambar ini:<br>
 ![Latihan 1](pict/latihan1.PNG) 
 <br>
