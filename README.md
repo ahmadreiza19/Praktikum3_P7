@@ -40,8 +40,10 @@ for x in list(range(1, n+1, 1))
     print(f"data ke: {x} ->", random.uniform(0,05))
 ```
 * Funsi For adalah sebagai bentuk berulangan.
+<br>
 
 * Sedangkan untuk function range terdapat syntax default dari Python, seperti dibawah ini :<br>
+
 >range(start, stop, step_size)<br>
 >Keterangan :<br>
 >-start     = Nilai awal<br>
