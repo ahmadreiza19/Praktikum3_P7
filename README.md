@@ -11,6 +11,7 @@ Kelas   : T1.20.B.1<br>
 ![Latihan 1](pict/latihan1.PNG) 
 <br>
 * Saya membuat source code dari perintah diatas, seperti dibawah ini :<br>
+
 ```python
 n=int(input("Masukan nilai N :"))
 
@@ -22,12 +23,14 @@ for x in list(range(1, n+1,1)):
 
 Saya akan menjelaskan beberapa syntax diatas: <br>
 * Pada source code pertama :<br>
+
 ```python
 import random
 ```
 Fungsinya untuk memasukan function random yang ada didalam bahasa pemrograman python ke program yang telah saya buat.
 
 * Pada source code kedua :<br>
+
 ```python
 for x in list(range(1, n+1, 1))
     print(f"data ke: {x} ->", random.uniform(0,05))
