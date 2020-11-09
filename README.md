@@ -62,7 +62,6 @@ Pada fungsi ini penulisan syntax random.uniform() harus diisi dengan 2 nilai did
     2. Berhenti saya menggunakan n+1, karena n merupakan variable dari inputan yang user masukan, saya menggunakan +1 karena default pada fungsi berhenti/stop dirange adalah nilai itu juga. sedangkan dengan fungsi n+1 datanya akan berjalan.<br>
 
 Hasil dari program tersebut :
-
 1. saya ingin menampilkan 5 baris bilangan dengan nilai 0 sampai 0,5<br>
     ![gambar 5 baris](pict/5barisbilangan.PNG)
 2. saya ingin menampilkan 8 baris bilangan dengan nilai 0 sampai 0.5<br>
