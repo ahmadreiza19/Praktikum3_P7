@@ -30,6 +30,7 @@ Saya akan menjelaskan beberapa syntax diatas: <br>
 ```python
 import random
 ```
+
 Fungsinya untuk memasukan function random yang ada didalam bahasa pemrograman python ke program yang telah saya buat.
 
 * Pada source code kedua :<br>
